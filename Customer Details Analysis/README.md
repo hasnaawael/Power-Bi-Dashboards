@@ -1,4 +1,4 @@
-#📄Power BI Dashboard: Customer Details Analysis 📊
+# 📄Power BI Dashboard: Customer Details Analysis 📊
 Welcome to the Customer Details Analysis Power BI Dashboard! This dashboard provides you with valuable insights into your customer base, enabling you to make data-driven decisions to enhance your business strategies.
 
 ## Let's explore the key features and functionalities of this dashboard: 🚀
