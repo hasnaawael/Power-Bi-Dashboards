@@ -15,6 +15,7 @@ Welcome to the Customer Details Analysis Power BI Dashboard! This dashboard prov
 
 6️⃣ Revenue Trends by Gender: Gain insights into revenue trends by customer gender. Optimize marketing and offerings. ♀️♂️
 
+## Dashboard Video :
 
 Feel free to explore the interactive charts, graphs, and filters provided in this Power BI Dashboard to dig deeper into your customer data. 
 Leverage these insights to make informed decisions, enhance customer experiences, and drive business growth. 📈💼
