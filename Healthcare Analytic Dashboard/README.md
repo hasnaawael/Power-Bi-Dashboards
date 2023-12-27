@@ -21,6 +21,13 @@ Uncover the balance between patients referred to specific departments and those 
 6. Patient Visits by Age Group and Race 🧑🏽‍⚕️🌍
 Explore the distribution of patient visits across different age groups and races. Gain insights into the diversity of healthcare needs and preferences. Use this information to tailor services to specific demographic groups and ensure inclusivity in healthcare delivery.
 
+## Dashboard Video  
+
+
+
+https://github.com/hasnaawael/Power-Bi-Dashboards/assets/102909885/c499dd05-e105-4705-af02-4fff9fbd8e2e
+
+
 ## Getting Started 🚀
 ### To use the Healthcare Analytics Dashboard:
 
